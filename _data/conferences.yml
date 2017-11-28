@@ -28,7 +28,7 @@
   timezone: EST
   date: March 9, 2018
   place: New York, NY
-  sub: ML, Info
+  sub: ML
   
 - name: AMIA Informatics Summit
   year: 2018
@@ -58,7 +58,7 @@
   timezone: CST
   date: April 23-May 4, 2018
   place: Verona, Wisconsin
-  sub: Info, Eng
+  sub: Eng
   
 - name: ICLR
   year: 2018
