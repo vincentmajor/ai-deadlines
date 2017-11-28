@@ -1,15 +1,5 @@
 ---
 
-- name: WACV
-  year: 2018
-  id: wacv2018
-  link: http://wacv18.uccs.us/
-  deadline: "2017-12-01 23:59:59"
-  timezone: PST
-  date: March 12-14, 2018
-  place: Lake Tahoe, Nevada, USA
-  sub: CV
-
 - name: NAACL
   year: 2018
   id: naacl18
@@ -29,16 +19,6 @@
   place: New York City, New York, USA
   sub: ML
 
-- name: SIGGRAPH
-  year: 2018
-  id: siggraph18
-  link: http://s2018.siggraph.org/
-  deadline: "2018-01-23 21:59:59"
-  timezone: GMT
-  date: August 12-16, 2018
-  place: Vancouver, Canada
-  sub: GR
-
 - name: IJCAI
   year: 2018
   id: ijcai18
@@ -48,17 +28,6 @@
   date: July 13-19, 2018
   place: Stockholm, Sweden
   sub: ML
-
-
-- name: RSS
-  year: 2018
-  id: rss18
-  link: http://www.roboticsconference.org/
-  deadline: "2018-02-01 23:59:59"
-  timezone: AoE
-  date: June 26-30, 2018
-  place: Pittsburgh, Pennsylvania, USA
-  sub: RO
 
 - name: ICML
   year: 2018
@@ -90,26 +59,6 @@
   place: Melbourne, Australia
   sub: NLP
 
-- name: IROS
-  year: 2018
-  id: iros2018
-  link: https://www.iros2018.org/
-  deadline: "2018-03-01 23:59:59"
-  timezone: CET
-  date: October 1-5, 2018
-  place: Madrid, Spain
-  sub: RO
-
-- name: ECCV
-  year: 2018
-  id: eccv18
-  link: https://eccv2018.org/
-  deadline: "2018-03-14 23:59:59"
-  timezone: GMT
-  date: September 8-14, 2018
-  place: Munich, Germany
-  sub: CV
-
 - name: COLING
   year: 2018
   id: coling18
@@ -120,16 +69,6 @@
   place: Santa Fe, New Mexico, USA
   sub: NLP
 
-- name: Interspeech
-  year: 2018
-  id: interspeech18
-  link: http://interspeech2018.org/
-  deadline: "2018-03-23 23:59:59"
-  timezone: Etc/GMT
-  date: September 2-6, 2018
-  place: Hyderabad, India
-  sub: SP
-
 - name: BMVC
   year: 2018
   id: bmvc2018
@@ -139,35 +78,6 @@
   date: September 03-06, 2018
   place: Newcastle upon Tyne
   sub: CV
-
-- name: CVPR
-  year: 2018
-  id: cvpr18
-  link: http://cvpr2018.thecvf.com/
-  deadline: "2017-11-15 23:59:59"
-  timezone: America/Los_Angeles
-  date: June 18-23, 2018
-  place: Salt Lake City, Utah
-  sub: CV
-
-- name: AAMAS
-  year: 2018
-  id: aamas18
-  link: http://celweb.vuse.vanderbilt.edu/aamas18
-  deadline: "2017-11-14 23:59:00"
-  timezone: Etc/GMT+12
-  date: July 11-13, 2018
-  place: Stockholm, Sweden
-  sub: ML
-
-- name: ICASSP
-  year: 2018
-  id: icassp18
-  link: https://2018.ieeeicassp.org/
-  deadline: "2017-10-27 23:59:59"
-  date: April 15-20, 2018
-  place: Calgary, Alberta, Canada
-  sub: SP
 
 - name: ICLR
   year: 2018
@@ -188,15 +98,6 @@
   place: Lanzarote, Spain
   sub: ML
 
-- name: ICRA
-  year: 2018
-  id: icra18
-  link: http://www.icra2018.org/
-  deadline: "2017-09-15 23:59:59"
-  date: May 21-25, 2018
-  place: Brisbane, Australia
-  sub: RO
-
 - name: AAAI
   year: 2018
   id: aaai18
@@ -206,16 +107,6 @@
   date: February 2-7, 2018
   place: New Orleans, Lousiana, USA
   sub: ML
-
-- name: CoRL
-  year: 2017
-  id: corl17
-  link: http://www.robot-learning.org
-  deadline: "2017-06-28 23:59:59"
-  timezone: America/Los_Angeles
-  date: November 13-15, 2017
-  place: Mountain View, California
-  sub: RO
 
 - name: NIPS
   year: 2017
@@ -227,12 +118,52 @@
   place: Long Beach Convention Center, California
   sub: ML
 
-- name: ICCV
-  year: 2017
-  id: iccv17
-  link: http://iccv2017.thecvf.com/
-  deadline: "2017-03-17 23:59:59"
-  timezone: GMT
-  date: October 22-29, 2017
-  place: Venice, Italy
-  sub: CV
+- name: XGM
+  year: 2018
+  id: xgm2018
+  link: https://xgm.epic.com
+  deadline: "2017-12-15 00:00:00"
+  timezone: CST
+  date: April 23-May 4, 2018
+  place: Verona, Wisconsin
+  sub: ML
+
+- name: AMIA Annual Symposium
+  year: 2018
+  id: AMIA2018
+  link: https://www.amia.org/amia2018
+  deadline: 
+  timezone: 
+  date: November 3-7, 2018
+  place: San Franciso, CA
+  sub: Info
+
+- name: AMIA Informatics Summit
+  year: 2018
+  id: AMIASummit2018
+  link: https://www.amia.org/2018-Informatics-Summit
+  deadline: "2017-09-28 11:59:00"
+  timezone: EST
+  date: March 12-15, 2018
+  place: San Franciso, CA
+  sub: Info
+
+- name: NYAS ML Symposium
+  year: 2018
+  id: NYASML2018
+  link: https://www.nyas.org/events/2018/12th-annual-machine-learning-symposium/
+  deadline: "2018-01-19 00:00:00"
+  timezone: EST
+  date: March 9, 2018
+  place: New York, NY
+  sub: ML
+
+- name: MLHC
+  year: 2018
+  id: MLHC2018
+  link: https://www.mlforhc.org/
+  deadline: "2018-04-20 00:00:00"
+  timezone: PST
+  date: August 17-18, 2018
+  place: Stanford, CA
+  sub: ML
