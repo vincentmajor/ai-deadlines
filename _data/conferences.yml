@@ -1,5 +1,74 @@
 ---
 
+- name: NIPS
+  year: 2017
+  id: nips17
+  link: https://nips.cc/Conferences/2017
+  deadline: "2017-05-19 13:00:00"
+  timezone: America/Los_Angeles
+  date: December 4-9, 2017
+  place: Long Beach Convention Center, California
+  sub: ML
+
+- name: AAAI
+  year: 2018
+  id: aaai18
+  link: http://www.aaai.org/Conferences/AAAI/aaai18.php
+  deadline: "2017-09-11 23:59:59"
+  timezone: Pacific/Honolulu
+  date: February 2-7, 2018
+  place: New Orleans, Lousiana, USA
+  sub: ML
+
+- name: NYAS ML Symposium
+  year: 2018
+  id: NYASML2018
+  link: https://www.nyas.org/events/2018/12th-annual-machine-learning-symposium/
+  deadline: "2018-01-19 00:00:00"
+  timezone: EST
+  date: March 9, 2018
+  place: New York, NY
+  sub: ML
+  
+- name: AMIA Informatics Summit
+  year: 2018
+  id: AMIASummit2018
+  link: https://www.amia.org/2018-Informatics-Summit
+  deadline: "2017-09-28 11:59:00"
+  timezone: EST
+  date: March 12-15, 2018
+  place: San Franciso, CA
+  sub: Info
+
+- name: AISTATS
+  year: 2018
+  id: aistats18
+  link: http://www.aistats.org/
+  deadline: "2017-10-13 23:59:59"
+  timezone: Etc/GMT
+  date: April 9-11, 2018
+  place: Lanzarote, Spain
+  sub: ML
+  
+- name: XGM
+  year: 2018
+  id: xgm2018
+  link: https://xgm.epic.com
+  deadline: "2017-12-15 00:00:00"
+  timezone: CST
+  date: April 23-May 4, 2018
+  place: Verona, Wisconsin
+  sub: ML
+  
+- name: ICLR
+  year: 2018
+  id: iclr18
+  link: http://iclr.cc/
+  deadline: "2017-10-27 17:00:00"
+  date: April 30-May 3, 2018
+  place: Vancouver Convention Center, Vancouver, Canada
+  sub: ML
+
 - name: NAACL
   year: 2018
   id: naacl18
@@ -8,26 +77,6 @@
   date: June 2-4, 2018
   place: New Orleans, USA
   sub: NLP
-
-- name: MLDM
-  year: 2018
-  id: mldm18
-  link: http://www.mldm.de/mldm2018.php
-  deadline: "2018-01-15 23:59:59"
-  timezone: America/Los_Angeles
-  date: July 14-19, 2018
-  place: New York City, New York, USA
-  sub: ML
-
-- name: IJCAI
-  year: 2018
-  id: ijcai18
-  link: https://www.ijcai-18.org/
-  deadline: "2018-01-31 23:59:59"
-  timezone: Etc/GMT+12
-  date: July 13-19, 2018
-  place: Stockholm, Sweden
-  sub: ML
 
 - name: ICML
   year: 2018
@@ -39,14 +88,24 @@
   place: Stockholm, Sweden
   sub: ML
 
-- name: KDD
+- name: IJCAI
   year: 2018
-  id: kdd18
-  link: http://www.kdd.org/kdd2018/
-  deadline: "2018-02-11 23:59:59"
-  timezone: PST
-  date: August 19-23, 2018
-  place: London, United Kingdom
+  id: ijcai18
+  link: https://www.ijcai-18.org/
+  deadline: "2018-01-31 23:59:59"
+  timezone: Etc/GMT+12
+  date: July 13-19, 2018
+  place: Stockholm, Sweden
+  sub: ML
+  
+- name: MLDM
+  year: 2018
+  id: mldm18
+  link: http://www.mldm.de/mldm2018.php
+  deadline: "2018-01-15 23:59:59"
+  timezone: America/Los_Angeles
+  date: July 14-19, 2018
+  place: New York City, New York, USA
   sub: ML
 
 - name: ACL
@@ -58,6 +117,26 @@
   date: July 15-20, 2018
   place: Melbourne, Australia
   sub: NLP
+
+- name: MLHC
+  year: 2018
+  id: MLHC2018
+  link: https://www.mlforhc.org/
+  deadline: "2018-04-20 00:00:00"
+  timezone: PST
+  date: August 17-18, 2018
+  place: Stanford, CA
+  sub: ML
+
+- name: KDD
+  year: 2018
+  id: kdd18
+  link: http://www.kdd.org/kdd2018/
+  deadline: "2018-02-11 23:59:59"
+  timezone: PST
+  date: August 19-23, 2018
+  place: London, United Kingdom
+  sub: ML
 
 - name: COLING
   year: 2018
@@ -79,55 +158,6 @@
   place: Newcastle upon Tyne
   sub: CV
 
-- name: ICLR
-  year: 2018
-  id: iclr18
-  link: http://iclr.cc/
-  deadline: "2017-10-27 17:00:00"
-  date: April 30-May 3, 2018
-  place: Vancouver Convention Center, Vancouver, Canada
-  sub: ML
-
-- name: AISTATS
-  year: 2018
-  id: aistats18
-  link: http://www.aistats.org/
-  deadline: "2017-10-13 23:59:59"
-  timezone: Etc/GMT
-  date: April 9-11, 2018
-  place: Lanzarote, Spain
-  sub: ML
-
-- name: AAAI
-  year: 2018
-  id: aaai18
-  link: http://www.aaai.org/Conferences/AAAI/aaai18.php
-  deadline: "2017-09-11 23:59:59"
-  timezone: Pacific/Honolulu
-  date: February 2-7, 2018
-  place: New Orleans, Lousiana, USA
-  sub: ML
-
-- name: NIPS
-  year: 2017
-  id: nips17
-  link: https://nips.cc/Conferences/2017
-  deadline: "2017-05-19 13:00:00"
-  timezone: America/Los_Angeles
-  date: December 4-9, 2017
-  place: Long Beach Convention Center, California
-  sub: ML
-
-- name: XGM
-  year: 2018
-  id: xgm2018
-  link: https://xgm.epic.com
-  deadline: "2017-12-15 00:00:00"
-  timezone: CST
-  date: April 23-May 4, 2018
-  place: Verona, Wisconsin
-  sub: ML
-
 - name: AMIA Annual Symposium
   year: 2018
   id: AMIA2018
@@ -137,33 +167,13 @@
   date: November 3-7, 2018
   place: San Franciso, CA
   sub: Info
-
-- name: AMIA Informatics Summit
+  
+- name: NIPS
   year: 2018
-  id: AMIASummit2018
-  link: https://www.amia.org/2018-Informatics-Summit
-  deadline: "2017-09-28 11:59:00"
-  timezone: EST
-  date: March 12-15, 2018
-  place: San Franciso, CA
-  sub: Info
-
-- name: NYAS ML Symposium
-  year: 2018
-  id: NYASML2018
-  link: https://www.nyas.org/events/2018/12th-annual-machine-learning-symposium/
-  deadline: "2018-01-19 00:00:00"
-  timezone: EST
-  date: March 9, 2018
-  place: New York, NY
-  sub: ML
-
-- name: MLHC
-  year: 2018
-  id: MLHC2018
-  link: https://www.mlforhc.org/
-  deadline: "2018-04-20 00:00:00"
-  timezone: PST
-  date: August 17-18, 2018
-  place: Stanford, CA
+  id: nips18
+  link: https://nips.cc/Conferences/2018
+  deadline: 
+  timezone: 
+  date: December 3-8, 2017
+  place: Montreal, Canada
   sub: ML
