@@ -1,15 +1,12 @@
-title: AI Conference Deadlines # (Maintained by @abhshkdz)
+title: Deadlines for PAU # (Maintained by @abhshkdz)
 # email: abhshkdz@vt.edu
-description: Countdowns to top CV/NLP/ML/Robotics/AI conference deadlines
+description: Deadline countdowns for the NYULH PAU: e.g. Medical Informatics conference deadlines. This is a fork of the original AI Deadlines by abhshkdz
 author: Abhishek Das
-
-domain: "aideadlin.es"
-baseurl: ""
 
 twitter_username: abhshkdz
 twitter_hashtag: machinelearning
 github_username: abhshkdz
-github_repo: ai-deadlines
+github_repo: pau-deadlines
 
 markdown: kramdown
 ga_id: UA-36274081-2
